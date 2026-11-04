@@ -46,6 +46,26 @@ I'm a Computer Applications postgraduate (MCA, 2026) passionate about software d
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
+## 🚀 Featured Projects
+
+### 1. AI-Powered E-commerce Application with an Intelligent Shopping Assistant
+- Developed a full-stack e-commerce application using Python, Django, React, and SQLite.
+- Integrated an AI shopping assistant using Ollama.
+- Implemented product recommendations, shopping assistance, FAQs, and order-status tracking.
+- Focused on secure authentication, cart management, and order processing.
+
+**Technologies:** Python | Django | React | SQLite | Ollama
+
+🔗 [View Project on GitHub](https://github.com/Harshaborra02/ai-e-com)
+
+### 2. GenAI FAQ Chatbot Using Advanced RAG Architecture
+- Developed an AI-powered chatbot to answer questions from annual reports.
+- Used Retrieval-Augmented Generation (RAG) to retrieve relevant information from PDF documents.
+- Implemented document processing, text chunking, embeddings, and vector search.
+- Used an LLM to generate context-based answers.
+
+**Technologies:** Python | LangChain | Qdrant | DeepSeek | Gradio
+
 
 <!--
 **Harshaborra02/Harshaborra02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
